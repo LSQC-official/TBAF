@@ -1,4 +1,4 @@
-# TABF: Template-Based Automatic Fragmentation Program
+# TBAF: Template-Based Automatic Fragmentation Program
 
 Repo for the publication: [A Template‑Based Automatic Fragmentation Algorithm for Complex and Large Systems in the Generalized Energy‑Based Fragmentation Framework](https://chemrxiv.org/engage/chemrxiv/article-details/68ea0bab5dd091524fec1595)
 ## Set up environment
@@ -20,3 +20,4 @@ For ionic liquids, run
 python getfrg_pair.py file.xyz --charge charge
 
 ```
+
